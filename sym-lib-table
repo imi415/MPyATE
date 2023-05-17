@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_NXP_LPC_Local")(type "KiCad")(uri "${KIPRJMOD}/libraries/Symbols/MCU_NXP_LPC_Local.kicad_sym")(options "")(descr ""))
+  (lib (name "Device_Local")(type "KiCad")(uri "${KIPRJMOD}/libraries/Symbols/Device_Local.kicad_sym")(options "")(descr ""))
+  (lib (name "Battery_Management_Local")(type "KiCad")(uri "${KIPRJMOD}/libraries/Symbols/Battery_Management_Local.kicad_sym")(options "")(descr ""))
+)
